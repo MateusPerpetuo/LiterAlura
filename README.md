@@ -4,6 +4,13 @@
 ![Badge Linguagem](http://img.shields.io/static/v1?label=LINGUAGEM&message=JAVA&color=orange&style=for-the-badge)
 ![Badge Linguagem](http://img.shields.io/static/v1?label=API&message=gutendex&color=blue&style=for-the-badge)
 
+<h3 align="center">Badge de conclusão do desafio
+  <p align="center">
+    <img src="https://github.com/MateusPerpetuo/LiterAlura/assets/129229556/7a12b6bd-7e30-42a1-964b-16ab1f2d691f" alt="badge literalura">
+  </p>
+</h3> 
+
+
 ## Descrição do projeto 
 
 <p align="justify">
